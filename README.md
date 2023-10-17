@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bouchra LAAZ
+- 👋 Hi, I’m Bouchra BERRAHOU
 - 👀 I’m interested in full-stack developpement and data
 - 🌱 I’m currently learning JavaScript and PHP
 - 💞️ I’m looking to collaborate on any project with JS or PHP
