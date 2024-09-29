@@ -2,8 +2,8 @@
 - 👀 I’m interested in full-stack developpement and data
 - 💞️ I’m looking to collaborate on any project with JS/TS, PHP, JAVA, Symfony, NestJS, React, Spring
 - 📫 you can reach me by email at b.berrahoupro@gmail.com
-
-_______________ Projects _______________________
+<BR/><BR/>
+_____________________________ Side projects _____________________________ 
 
 + Web platform for managing a comics library : https://github.com/Ousha23/BDtheque <img src="https://github.com/user-attachments/assets/01ee8b68-caf0-49f1-82aa-4c07a0460c23" width="15px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML5" width="15px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS3" width="15px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" width="15px" />
 
